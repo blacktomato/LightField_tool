@@ -9,6 +9,7 @@ Some Program related to Light Field
 
 * * *
 
-<h1>Dependency</h1>
-I have use the file\_io.py program from this repository.
-https://github.com/lightfield-analysis/python-tools
+<h3>Dependency</h3>
+I have use the file_io.py program from this [repository][1] from lightfield-analysis.
+
+[1]: https://github.com/lightfield-analysis/python-tools
